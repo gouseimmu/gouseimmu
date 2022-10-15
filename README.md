@@ -11,7 +11,7 @@
 
 💬Have a look at my portfolio[]
 
-📫 How to reach me gouseimmugh@gmail.com@gmail.com
+📫 How to reach me gouseimmugh@gmail.com
 
  
 
