@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a Full Stack Web Developer 
-![image](https://user-images.githubusercontent.com/101376314/195986304-8069179f-b337-4dc8-ad00-d957c13f2f0a.png)
+          I'm a Full Stack Web Developer 
+ 
 
 
 <!--
