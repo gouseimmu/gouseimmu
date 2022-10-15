@@ -1,7 +1,11 @@
                                    
  
 
-  <h1 align="center"> Hlo Developers 👋 , I'm Shaik Gouse  </h1> 
+  <h1 align="center">
+   <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFBD8CFF&width=435&lines=Hii%2C+I'm+Shaik_Gouse😇;Full-Stack+Web+Developer...;"style="max-width: 100%;">
+<br/>
+    
+</h1>
   
   <h2>I'm a passionate and energetic Full Stack Web developer skilled in MERN stack and ready to explore my skills into the market. 😃. I focuses mainly on writing clean, elegant and efficient code.</h2>
   <div align="center">
@@ -28,6 +32,8 @@
 </div>
 </div>
 
+<div>
+</div>
  
 
    
