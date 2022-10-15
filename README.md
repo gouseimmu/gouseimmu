@@ -1,11 +1,10 @@
                                    
- 
-<style>
-  #about{
-    font-size: 25px;
+ <style>
+ #about{
+  color:"blue"
 
-  }
-</style>
+ }
+ </style>
 
   <h1 align="center"> Hlo Developers 👋 , I'm Shaik Gouse  </h1> 
   
