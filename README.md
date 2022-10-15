@@ -1,10 +1,13 @@
 ### Hlo Developers 👋 , I'm Shaik Gouse 
+
+
+[Linkedin](https://www.linkedin.com/in/shaik-gouse-94b50a1b8/)
      
      
      
                     
-                                                        <img src="![image](https://user-images.githubusercontent.com/101376314/195986646-cb6f1b42-265c-4d81-ac01-416b2cbdd657.png)"/>
-"
+                                                
+
 
 
          
