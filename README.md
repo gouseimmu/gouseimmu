@@ -1,8 +1,9 @@
                                    
  
  <h1 align="center">
-   <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFBD8CFF&width=435&lines=Hello%2C+I'm+Shaik Gouse;Full-Stack+Web+Developer...;"style="max-width: 100%;">
-<br/>
+    
+ Hello Developers 👋, I'm Shaik Gouse 
+   Full Stack Web Developer
     
 </h1>
     
@@ -36,8 +37,6 @@
 </div>
 </div>
 
- 
-
 <h2><i>Tech Stack</i></h2>
  
  <div>
@@ -68,9 +67,6 @@
 </p>
 <br>
  </div>
- 
-<br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br>
-  
 
    
 
