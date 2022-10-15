@@ -41,7 +41,7 @@
  
  <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/>
+ <img src=" https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg " alt="css3" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " alt="css3" width="40" height="40"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNErx29Xj1-HZGSX74XQZTz0xOa7t2WYaTGg&usqp=CAU" alt="css3" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg " alt="css3" width="40" height="40"/>
@@ -66,6 +66,11 @@
     </a>
 </p>
 <br>
+ </div>
+ 
+
+ <div>
+ <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br>
  </div>
 
    
