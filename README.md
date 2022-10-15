@@ -31,7 +31,7 @@
 
 📫 How to reach me gouseimmugh@gmail.com
 
-📄 Know about me  [**Resume**](https://drive.google.com/file/d/1dAntuQdPsfz_wUwicDZdZfsZZM0ty1Uq/view?usp=sharing)
+📄 Know about me  [**Resume**](https://drive.google.com/file/d/1uriT8K1Oa4vsXwx0e2AzIR1xV6PJOT9i/view?usp=sharing)
 </div>
 </div>
 
@@ -70,7 +70,7 @@
  
 
  <div>
- <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br>
+ <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=008080&width=439&lines=Thanks+for+Visiting+my+profile"></br>
  </div>
 
    
