@@ -1,10 +1,10 @@
                                    
- <style>
+ <Style>
  #about{
   color:"blue"
 
  }
- </style>
+ </Style>
 
   <h1 align="center"> Hlo Developers 👋 , I'm Shaik Gouse  </h1> 
   
