@@ -1,6 +1,7 @@
 ### Hlo Developers 👋 , I'm Shaik Gouse 
 
-[image](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
+  ![image](https://user-images.githubusercontent.com/101376314/195987071-e308ac7a-d5b3-48bd-a51f-3a597699a5d2.png)
+
 
 
 [Linkedin](https://www.linkedin.com/in/shaik-gouse-94b50a1b8/)
