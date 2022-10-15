@@ -1,6 +1,19 @@
  Hlo Developers, I'm Shaik Gouse 
 
- image.png
+  
+
+  About me
+🔭 I’m working on Developing new Skills
+
+🌱 I’m currently learning MERN Stack
+
+👯 I’m looking to collaborate on Open Source Projects
+
+💬Have a look at my portfolio[]
+
+📫 How to reach me gouseimmugh@gmail.com@gmail.com
+
+ 
 
    
 
