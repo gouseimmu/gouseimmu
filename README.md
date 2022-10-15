@@ -22,7 +22,7 @@
 
 👯 I’m looking to collaborate on Open Source Projects
 
-💬Have a look at my <span>portfolio <a href="https://gouseimmu.github.io/"/></span> 
+💬Have a look at my <span> <a href="https://gouseimmu.github.io/"/>portfolio</a></span> 
 
 📫 How to reach me gouseimmugh@gmail.com
 </div>
