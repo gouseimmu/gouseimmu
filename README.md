@@ -1,6 +1,11 @@
                                    
  
+<style>
+  #about{
+    font-size: 25px;
 
+  }
+</style>
 
   <h1 align="center"> Hlo Developers 👋 , I'm Shaik Gouse  </h1> 
   
@@ -15,8 +20,8 @@
 
   
 <div>
-              About me
-              
+             <h1 align="center">About me</h1> 
+<div id="about" >
 🔭 I’m working on Developing new Skills
 
 🌱 I’m currently learning MERN Stack                                 
@@ -26,6 +31,7 @@
 💬Have a look at my portfolio[]
 
 📫 How to reach me gouseimmugh@gmail.com
+</div>
 </div>
 
  
