@@ -1,10 +1,5 @@
                                    
- <Style>
- #about{
-  color:"blue"
-
- }
- </Style>
+ 
 
   <h1 align="center"> Hlo Developers 👋 , I'm Shaik Gouse  </h1> 
   
@@ -20,14 +15,14 @@
   
 <div>
              <h1 align="center">About me</h1> 
-<div id="about" >
+<div id="about"  >
 🔭 I’m working on Developing new Skills
 
 🌱 I’m currently learning MERN Stack                                 
 
 👯 I’m looking to collaborate on Open Source Projects
 
-💬Have a look at my portfolio[]
+💬Have a look at my <span>portfolio <a href="https://gouseimmu.github.io/"/></span> 
 
 📫 How to reach me gouseimmugh@gmail.com
 </div>
@@ -36,7 +31,6 @@
  
 
    
-
 
 
  
