@@ -2,8 +2,8 @@
  
  <h1 align="center">
     
- Hello Developers 👋, I'm Shaik Gouse 
-   Full Stack Web Developer
+ Hello Developers 👋, I'm Shaik Gouse <br>Full Stack Web Developer
+   
     
 </h1>
     
