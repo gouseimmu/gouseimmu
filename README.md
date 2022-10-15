@@ -70,7 +70,7 @@
  
 
  <div>
- <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=008080&width=439&lines=Thanks+for+Visiting+my+profile"></br>
+ <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=008080&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br>
  </div>
 
    
