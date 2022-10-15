@@ -1,8 +1,10 @@
-                                      <h1>Hlo Developers, I'm Shaik Gouse</h1>
+                                   
  
 
-  I'm a passionate and energetic Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code
 
+  <h1 align="center"> Hlo Developers , I'm Shaik Gouse  </h1> 
+  
+  <h2>I'm a passionate and energetic Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code.</h2>
   <div align="center">
 	<br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
@@ -10,6 +12,7 @@
 	</a>
 	<br>
 </div>
+
   
 
   About me
