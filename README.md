@@ -40,12 +40,12 @@
 <h2><i>Tech Stack</i></h2>
  
  <div>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/>
- <img src=" https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg " alt="css3" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbyqJR-426v72Ejr87Vf_h2Wqzg5LYmX69w&usqp=CAU" alt="css3" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " alt="css3" width="40" height="40"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNErx29Xj1-HZGSX74XQZTz0xOa7t2WYaTGg&usqp=CAU" alt="css3" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg " alt="css3" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png " alt="css3" width="40" height="40"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6bAwzOmNKcJJv0IBvv6Vyy3y4KoToImDNQ&usqp=CAU" alt="css3" width="40" height="40"/>
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3521612-2945056.png" alt="css3" width="40" height="40"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX4T8aK1B1achwL0ghFbp6HRI70Grdo_U7w&usqp=CAU" alt="css3" width="40" height="40"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU" alt="css3" width="40" height="40"/>
