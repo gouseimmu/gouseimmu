@@ -53,7 +53,8 @@
 
  <h1>Stats<h1>
  <div>
-     ![Shaik's github stats](https://github-readme-stats.vercel.app/api?username=gouseimmu)
+     
+     [**STATS**](https://github-readme-stats.vercel.app/api?username=gouseimmu)
  </div>
   
 <h2><i>Connect With me</i></h2>
