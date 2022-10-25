@@ -50,11 +50,11 @@
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX4T8aK1B1achwL0ghFbp6HRI70Grdo_U7w&usqp=CAU" alt="css3" width="40" height="40"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU" alt="css3" width="40" height="40"/>
  </div>
-
+---
  <h1>Stats<h1>
  <div>
      
-     [**STATS**](https://github-readme-stats.vercel.app/api?username=gouseimmu)
+   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=gouseimmu" alt="Stats"/>  
  </div>
   
 <h2><i>Connect With me</i></h2>
