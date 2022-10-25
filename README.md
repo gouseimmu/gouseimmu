@@ -1,4 +1,4 @@
-                                   
+                        
  
  <h1 align="center">
     
@@ -49,6 +49,11 @@
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3521612-2945056.png" alt="css3" width="40" height="40"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX4T8aK1B1achwL0ghFbp6HRI70Grdo_U7w&usqp=CAU" alt="css3" width="40" height="40"/>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU" alt="css3" width="40" height="40"/>
+ </div>
+
+ <h1>Stats<h1>
+ <div>
+     [![Shaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouseimmu)](https://github.com/gouseimmu/github-readme-stats)
  </div>
   
 <h2><i>Connect With me</i></h2>
