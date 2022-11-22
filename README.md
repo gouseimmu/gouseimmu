@@ -1,7 +1,7 @@
                         
  
   <h1 align="center">
-    Hi  I'm Shaik Gouse </h1>
+    Hi  I'm Shaik Gouse 👋 </h1>
      <h3 align="center">A Passionate Full Stack Web-Developer</h3>
     <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" width="35vh" alt="gouse">
    
@@ -15,19 +15,18 @@
 <p>Currently Studying in Masai School To become a Full-Stack-Web-Developer. 
     <br>
 
-<!-- <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" /> -->
 
 
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-- 👨‍💻 All of my projects are available at <a href="https://gouseimmu.github.io/" target="_blank">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="https://gouseimmu.github.io/" rel="noopener noreferrer" target="_blank">PORTFOLIO</a>
 
 - 💬 Ask me about *MERN stack*
 
 - 📫 How to reach me *gouseimmugh@gmail.com*
 
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1Vf4IFTvVt7ix-WO8ASZZ-We8xelPDbb3/view?usp=share_link" download target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1Vf4IFTvVt7ix-WO8ASZZ-We8xelPDbb3/view?usp=share_link" rel="noopener noreferrer" download target="_blank">RESUME</a>
 
 
 <br>
@@ -77,7 +76,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" height="30" width="40" /></a>
 </p>
 
 <!------------------------------------- githuib status part -------------------------------->
