@@ -1,92 +1,117 @@
                         
  
- <h1 align="center">
-    
- Hello Developers 👋, I'm Shaik Gouse <br>Full Stack Web Developer
-   
-    
+  <h1 align="center">
+    Hi
+    <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" width="35">
+    I'm Shaik Gouse
+    <h3 align="center">A Passionate Full Stack Web-Developer</h3>
 </h1>
-    
-</h1>
-  
-  <h2>I'm a passionate and energetic Full Stack Web developer skilled in MERN stack and ready to explore my skills into the market. 😃. I focuses mainly on writing clean, elegant and efficient code.</h2>
-  <div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg" width="800" height="400" alt="Full">
-	</a>
-	<br>
-</div>
 
-  
-<div>
-             <h1 align="center">About me</h1> 
-<div id="about"  >
 
-🔭 I’m working on Developing new Skills
 
-🌱 I’m currently learning MERN Stack                                 
+<!----------------------------------- About Section ------------------------------------>
 
-👯 I’m looking to collaborate on Open Source Projects
+<p>Currently Studying in Masai School To become a Full-Stack-Web-Developer. 
+    <br>
 
-💬Have a look at my <span> <a href="https://gouseimmu.github.io/"/>portfolio</a></span> 
+<!-- <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" /> -->
 
-📫 How to reach me gouseimmugh@gmail.com
 
-📄 Know about me  [**Resume**](https://drive.google.com/file/d/1uriT8K1Oa4vsXwx0e2AzIR1xV6PJOT9i/view?usp=sharing)
-</div>
-</div>
 
-<h2><i>Tech Stack</i></h2>
+- 🌱 I’m currently learning *React, Redux, MongoDB, Express*
+
+- 👨‍💻 All of my projects are available at <a href="https://gouseimmu.github.io/" target="_blank">PORTFOLIO</a>
+
+- 💬 Ask me about *MERN stack*
+
+- 📫 How to reach me *gouseimmugh@gmail.com*
+
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1Vf4IFTvVt7ix-WO8ASZZ-We8xelPDbb3/view?usp=share_link" download target="_blank">RESUME</a>
+
+
+<br>
+<!-----------------------------------------------technical tools---------------------------------------->
+</br>
+<h3> 🚀 Languages and Tools:</h3>
+<hr />
+<div align="center">
  
- <div>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbyqJR-426v72Ejr87Vf_h2Wqzg5LYmX69w&usqp=CAU" alt="css3" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " alt="css3" width="40" height="40"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNErx29Xj1-HZGSX74XQZTz0xOa7t2WYaTGg&usqp=CAU" alt="css3" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg " alt="css3" width="40" height="40"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6bAwzOmNKcJJv0IBvv6Vyy3y4KoToImDNQ&usqp=CAU" alt="css3" width="40" height="40"/>
- <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3521612-2945056.png" alt="css3" width="40" height="40"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX4T8aK1B1achwL0ghFbp6HRI70Grdo_U7w&usqp=CAU" alt="css3" width="40" height="40"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU" alt="css3" width="40" height="40"/>
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<br/>
+<br/>
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
  </div>
  
- <h1>Stats<h1>
- <div>
-     
-   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=gouseimmu&show_icons=true&hide_border=true" alt="Stats"/>  
- </div>
-  
-<h2><i>Connect With me</i></h2>
+ <div align="center"><h3 align="center">Tools</h3> 
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+     <br />
+     <br />
+ 
 
+</div>
+  <br/>
 
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-    <a href="https://gouseimmu.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Shaik" />
-    </a>
-    <a title="gouseimmugh@gmail.com" href="mailto:gouseimmugh@gmail.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gouseimmugh@gmail.com" />
+<a href="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" height="30" width="40" /></a>
+</p>
+
+<!------------------------------------- githuib status part -------------------------------->
+
+
+<h3 align="left> 📊 My Github Stats</h3>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gouseimmu&label=Profile%20views&color=0e75b6&style=flat" alt="gouseimmu" />
+<a href="https://github.com/gouseimmu?tab=followers"><img src="https://img.shields.io/github/followers/madhavi-teegireddy?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+  <br/>
+  
+
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouseimmu&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="gouseimmu" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouseimmu&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="gouseimmu" height="139" />
+</p>
+
+<br/>
+
+ <div align="left">
+ <h3>ℹ️ &nbsp;Github Info</h3>
+ <hr/>
+ 	
+<p align="center">
+    <a href="https://github.com/gouseimmu/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gouseimmu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gouseimmu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<br>
+  
+<p align="center"<a href="#"><img alt="gouseimmu" src="https://activity-graph.herokuapp.com/graph?username=gouseimmu&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&" /></a></p>
+
+<p align="center"> <a href="https://github.com/gouseimmu"><img src="https://github-profile-trophy.vercel.app/?username=gouseimmu&margin-w=5&theme=radical" alt="gouseimmu" /></a> </p>
+
  </div>
-
-   
-
-
- 
-     
-     
-                    
-                                                
-
-
-
-         
- 
 
 
 <!--
