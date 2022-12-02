@@ -1,8 +1,8 @@
                         
- 
-  <h1 align="center">
-    Hi  I'm Shaik Gouse 👋 </h1>
-     <h3 align="center">A Passionate Full Stack Web-Developer</h3>
+ <h1></h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&width=565&lines=Hii%2C+I'm+Shaik Gouse  👋;Full-Stack+Web+Developer..." alt="name" />
+     <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+I have 1200+ hrs hands-on coding experience</h3>
     <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" width="35vh" alt="gouse">
    
    
