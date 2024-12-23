@@ -23,7 +23,7 @@ I have 1200+ hrs hands-on coding experience</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://gouseimmu.github.io/" rel="noopener noreferrer" target="_blank">PORTFOLIO</a>
 
-- 💬 Ask me about *MERN stack*
+- 💬 Ask me about *Data analyst*
 
 - 📫 How to reach me *gouseimmugh@gmail.com*
 
